@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# artefacto que genera el notebook al correr
+tasador.keras
